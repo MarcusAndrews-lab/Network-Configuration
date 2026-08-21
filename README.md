@@ -23,15 +23,15 @@ I know and understand how VLAN's would prevent the need for such a complicated s
 
   -  IP:     10.0.0.1
   -  Mac:    c8-9e-43-b1-b6-62
-  -  DHCP:   ENABLED
-    
-<h3>L3 Switch 16</h3>
+  -  DHCP:   ENABLED    
+
+[L3 Switch 16 Port](https://github.com/MarcusAndrews-lab/Switch-ports)
 
   -  IP:    10.0.0.2
   -  Mac:  	00-1b-2f-c2-56-27
   -  DHCP:  DISABLED
 
-<h3>L3 Switch 8</h3>
+[L3 Switch 8 Port](https://github.com/MarcusAndrews-lab/Switch-ports)
 
   -  IP:    10.0.0.3
   -  Mac:  	78-D2-94-B3-2B-68 
@@ -39,7 +39,7 @@ I know and understand how VLAN's would prevent the need for such a complicated s
 
 
 <h3>Proxmox Server</h3>
-(Note: Proxmox has a MTU set lower than rest of network causing crashing from containers. Must find way to get Network configuration to persist)
+(Note: Upon further inspection the 10-Gb nic used seems to have started crashing, I will need to look into this further)
 
   -  IP:   10.0.0.11
   -  BackUp IP: 10.0.0.100
