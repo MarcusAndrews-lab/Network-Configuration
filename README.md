@@ -6,4 +6,4 @@ This helps mitigate network malfunctions with my main rig using 2 addresses from
 I know and understand how VLAN's would prevent the need for such a complicated set up, but my living situation prevents me from accessing accessing and modifying the configuration on the internet connected router.</p>
 
 -  [Network-IP/VLAN](https://github.com/MarcusAndrews-lab/Network-Configuration/blob/main/Network-IP%7CVLAN.md)
--  [Switch Ports](https://github.com/MarcusAndrews-lab/Switch-Ports/edit/main/README.md)
+-  [Switch Ports](https://github.com/MarcusAndrews-lab/Network-Configuration/blob/main/Switch-Ports.md)
