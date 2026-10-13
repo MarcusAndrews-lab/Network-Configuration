@@ -36,6 +36,7 @@
 
 <h3>Proxmox Server</h3>
 (Note: Upon further inspection the 10-Gb nic used seems to have started crashing, I will need to look into this further)
+(Suspected problem is thermal throttling will test later.)
 
   -  IP:   10.0.0.11
   -  BackUp IP: 10.0.0.100
